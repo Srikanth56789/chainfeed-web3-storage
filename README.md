@@ -32,3 +32,19 @@ Once Shelby developer access is available, the storage layer will be upgraded to
 - Web3 Social Platforms
 - Creator Economy
 - Decentralized Content Networks
+
+- ## System Architecture
+
+ChainFeed is designed as a decentralized media storage layer for Web3 social platforms.
+
+Flow:
+
+User Upload
+↓
+ChainFeed API
+↓
+Shelby Hot Storage
+↓
+Fast Retrieval for Web3 Applications
+
+This architecture enables fast media delivery while maintaining decentralized infrastructure.
